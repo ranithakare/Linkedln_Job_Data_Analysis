@@ -1,7 +1,7 @@
 
 # Linkedln_Job_Data_Analysis
- ### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiYWU4ZDljZjQtOTNhNC00YTcyLWFhNzgtMmQyOWQxNmYyNTU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
+ ### Dashboard Link :https://app.powerbi.com/view?r=eyJrIjoiYWIzYzA2MDUtNjNhYS00NDU5LWE4MmUtMjAxZmRlYjQ1NTgzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+ 
 ## About Dataset
 
 The following dataset is extracted using an API and contains job data from LinkedIN about 10 common job roles in India.
